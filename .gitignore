@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Dependency directory
+@types/
+
+# Build artifacts
+dist/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Log files
+*.log
+
+# User-specific files
+.DS_Store
+Thumbs.db
